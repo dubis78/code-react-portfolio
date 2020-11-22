@@ -22,8 +22,3 @@ div.carousel{
 .img-portfolio:hover {
   filter: grayscale(0%);      
 }
-
-/* a.img-link{
-  height: 556px !important;
-  max-height: 80vh;
-} */
