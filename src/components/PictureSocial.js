@@ -17,8 +17,8 @@ const PictureSocial=()=>{
                         <div className="card-content">        
                             {/*-- NAME & STATUS --*/}
                             <div className="info-headings">
-                                <h4 className="text-uppercase text-center text-primary">Dubenis Andrea López</h4>
-                                <h6 className="text-capitalize text-center text-primary">Mechatronical Engineer &amp; Frontend Dev</h6>
+                                <h4 className="text-uppercase text-center text-info">Dubenis Andrea López</h4>
+                                <h6 className="text-capitalize text-center text-info">Mechatronical Engineer &amp; Frontend Dev</h6>
                             </div>            
                              {/*-- CONTACT INFO --*/}
                             <Social/>     

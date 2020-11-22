@@ -13,6 +13,15 @@ span{
     top: 20px;
     left: 10px;
 }
+@media (max-width: 576px) {
+    .navbar {
+        left: -10px;
+    }
+    button.navbar-toggler{
+        padding: 4px;
+    }
+}
+
 .navbar-toggler:active {
     background-color: var(--mid-blue);
   }
