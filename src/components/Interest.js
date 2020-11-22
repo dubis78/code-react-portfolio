@@ -26,42 +26,42 @@ const Interest = () => {
                     {/*<!--INTEREST ICON ONE-->*/}
                     <div className="col-md-2 col-sm-4 col-xs-6  box text-center">
                         <div className="interest-icon">
-                            <img className='img-icon' src={music}/>
+                            <img className='img-icon' src={music} alt="music icon"/>
                             <span>Music</span>
                         </div>
                     </div>
                     {/*<!--INTEREST ICON TWO-->*/}
                     <div className="col-md-2 col-sm-4 col-xs-6 box text-center">
                         <div className="interest-icon-even">
-                            <img className='img-icon' src={game}/>
+                            <img className='img-icon' src={game} alt="gamepad icon"/>
                             <span>Gaming</span>
                         </div>
                     </div>
                     {/*<!--INTEREST ICON THREE-->*/}
                     <div className="col-md-2 col-sm-4 col-xs-6 box text-center">
                         <div className="interest-icon">
-                            <img className='img-icon' src={paw}/>
+                            <img className='img-icon' src={paw} alt="paw icon"/>
                             <span>Animals</span>
                         </div>
                     </div>
                     {/*<!--INTEREST ICON FOUR-->*/}
                     <div className="col-md-2 col-sm-4 col-xs-6 box text-center">
                         <div className="interest-icon-even">
-                            <img className='img-icon' src={book}/>
+                            <img className='img-icon' src={book} alt="book icon"/>
                             <span>Reading</span>
                         </div>
                     </div>
                     {/*<!--INTEREST ICON FIVE-->*/}
                     <div className="col-md-2 col-sm-4 col-xs-6 box text-center">
                         <div className="interest-icon">
-                            <img className='img-icon' src={plane}/>
+                            <img className='img-icon' src={plane} alt="plane icon"/>
                              <span>Traveling</span>
                         </div>
                     </div>
                     {/*<!--INTEREST ICON SIX-->*/}
                     <div className="col-md-2 col-sm-4 col-xs-6 box text-center">
                         <div className="interest-icon-even">
-                            <img className='img-icon' src={film}/>
+                            <img className='img-icon' src={film} alt="film icon"/>
                             <span>Movies</span>
                         </div>
                     </div>
