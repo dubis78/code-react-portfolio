@@ -1,11 +1,11 @@
 :root{
   /*---colores-----*/
   --dark-blue:#002a46;
-  --mid-blue:#004876;
-  --light-blue:#2aaae2;
-  --back-color:#161515;
-  --grey-color:rgb(123, 123, 123);;
-  --dark-visited:#055281;
+  --mid-blue:rgb(6, 128, 133);
+  --light-blue:rgb(3, 152, 158);
+  --back-color:#2b2828;
+  --grey-color:rgb(233, 233, 233);;
+  --dark-visited:rgb(6, 128, 133);
   --white-color: white;
   /*---tipografía---*/
   --normal:12px;
