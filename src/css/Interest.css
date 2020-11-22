@@ -1,0 +1,58 @@
+.heart{
+    width: 72px;
+}
+.card .row.no-gutters{
+    margin-right:0;
+    margin-left:0;    
+}
+.card .box .interest-icon{
+    display:block;
+    color:#282828;
+    background:var(--mid-blue);
+    height:105px;
+}
+.card .box .interest-icon i{
+    font-size:2.2em;
+    margin-top:29px;
+}
+.card .box .interest-icon span{
+    display:block;
+}
+.card .box .interest-icon-even{
+    display:block;
+    color:var(--mid-blue);
+    height:105px;
+    margin-right:-1px;}
+.card .box .interest-icon-even i{
+    font-size:2.2em;
+    margin-top:29px;
+}
+.card .box .interest-icon-even span{
+    display:block;
+}
+/* Extra Large devices (large desktops)*/
+@media (max-width: 1200px){
+    #interest-card.card{
+        height: 280px;
+    }
+}   
+/* Large devices (desktops, 992px and up)*/
+@media (max-width: 992px){
+    #interest-card.card{
+        height: 280px;
+    }
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 768px){
+    #interest-card.card{
+        height: 400px;
+    }
+}
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 576px) {
+    #interest-card.card{
+        height: 850px;
+    }
+}
+
+
