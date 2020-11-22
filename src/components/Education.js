@@ -41,7 +41,7 @@ const Education=()=>{
                             <small>Academia Geek</small>
                         </h6>
                         <h6>
-                            <small>Feb 2020 - </small>
+                            <small>Feb 2020 - Apr 2020 </small>
                         </h6>
                     </div>
                 </div>
