@@ -16,7 +16,7 @@ import img7 from '../img/7.png';
 const Portfolio=()=>{
   return (
     <div id='portfolio'>
-      <Carousel autoPlay infiniteLoop={true}>
+      <Carousel autoPlay infiniteLoop={true} showThumbs={false}>
       <div className='img-portfolio' style={{ height: "100%", color: "#fff" }}>
         <a className="img-link" href="https://ecopay.netlify.app/"><img src={img1} alt="404.png"/></a>
       </div>
